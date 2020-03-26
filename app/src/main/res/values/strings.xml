@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">YouTube Play Native Video</string>
+
+
+    <string name="SYBOTVtitle">SYBO TV </string>
+    <string name="SYBOTVChannelID">UCvyN-kMH-IrXzWNeZaQ_XaQ</string>
+
+    <string name="MadScorpionXtitle">Mad ScorpionX</string>
+    <string name="MadScorpionXChannelID">UC5ctH9--_UlE-HQ1GyjACdg</string>
+
+    <string name="Onlivetitle">On Live</string>
+    <string name="OliveChannelID">UCZghOmDezc6OCMzdPaL-j2Q</string>
+
+    <string name="Avonleatitle">Avonlea</string>
+    <string name="AvonleaChannelID">UC5r25vHHPqBUhNa358-2caQ</string>
+
+    <string name="LukasGrahamtitle">Lukas Graham </string>
+    <string name="LukasGrahamChannelID">UCs8ynQgjoKZblUXosXoeOEQ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
